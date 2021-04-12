@@ -2,13 +2,13 @@
 
 This style guide is primarily for Observe employees, but we hope it’s helpful to other organizations as well.
 
-If you're looking for the Observe Content Style Guide website, visit [styleguide.mailchimp.com](http://styleguide.mailchimp.com).
+If you're looking for the Observe Content Style Guide website, visit [styleguide.observe.com](http://styleguide.observe.com).
 
 Whether or not you work at Observe, we welcome your thoughts and suggestions. To learn more about sending us feedback or adapting this guide to create your own, see the Contributing file.
 
 ## Using the Guide
 
-We've set up an [example Middleman project](https://github.com/mailchimp/middleman-with-md-submodule-example).
+We've set up an [example Middleman project](https://github.com/observe/middleman-with-md-submodule-example).
 
 ## Creating a New File
 
